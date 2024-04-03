@@ -1,0 +1,1 @@
+execute as @a at @s positioned ^ ^0.3 ^0.3 run summon cod ~ ~ ~ {CustomName:'[{"text":"サンプル君"}]'}
