@@ -1,0 +1,2 @@
+# item_modifier-copy_name
+item_modifierのcopy_nameに関するサンプルになります。
