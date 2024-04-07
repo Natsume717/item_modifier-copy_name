@@ -1,1 +1,1 @@
-give @a chest{display:{Name:'[{"text":"sample_chest","italic":false}]'}} 1
+give @a chest{display:{Name:'[{"text":"sample_chest","italic":false}]'}} 20
