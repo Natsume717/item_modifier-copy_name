@@ -1,8 +1,7 @@
 # item_modifier-copy_name
 item_modifierのcopy_nameに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】copy_nameで名前をコピー！【item_modifier】](https://natsumake.com/item_modifier-copy_name/)』を参考にしてください。
 
 <h3>使い方</h3>
 
